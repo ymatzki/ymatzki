@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ymatzki
-- 👀 I’m interested in listening Podcast.
+- 👀 I’m interested in listening Podcast
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Twitter](https://twitter.com/ymatzki).
+- 📄 About me [https://www.ymatzki.info/](https://www.ymatzki.info/)
