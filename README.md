@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ymatzki.
 - 👂I’m interested in listening Podcast.
 - 🐦 How to reach me [Twitter](https://twitter.com/ymatzki).
-- 📄 About me [https://www.ymatzki.info/](https://www.ymatzki.info/).
+- 📄 [About me](https://www.ymatzki.dev/).
